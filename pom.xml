@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <hadoop.version>2.7.7</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <zookeeper.version>3.4.10</zookeeper.version>
         <hbase.version>1.4.9</hbase.version>
     </properties>
